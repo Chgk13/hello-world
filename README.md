@@ -1,2 +1,4 @@
 # hello-world
-first repo
+
+First repo.
+I just want to do some datascience.
